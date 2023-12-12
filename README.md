@@ -1,1 +1,13 @@
 # decoratorPattern
+CIMB is a digital bank that offers GSave and UpSave savings accounts.   As with a typical Savings Account, it contains accountNumber, accountName, and a balance for that account.
+
+The typical savings account offers an interest rate of 1%.
+The benefits of the typical savings account is the same with the "Standard Savings Account" as compared to other banks.
+
+The GSave account offers an interest rate of 2.5%.
+Benefits include the "Standard Savings Account" plus access to "GCash transfer".
+
+The UpSave account offers the highest interest rate of 4.0%.
+Benefits include the "Standard Savings Account" plus "with Insurance".
+
+![image](https://github.com/BritneyBeligan/decoratorPattern/assets/142373706/f1d9448d-987e-4f94-9e51-cef1f9b447dd)
